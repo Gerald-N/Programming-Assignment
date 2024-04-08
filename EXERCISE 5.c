@@ -21,7 +21,7 @@ int main() {
     printf("Result 3: %c\n", result3);
 
     // Array of records
-    Record records[5] = {{3, "J.COLE"}, {1, "OMONDI"}, {4, "NYAKUNDI"}, {2, "PATEL"}, {5, "HASSAN"}};
+    Record records[5] = {{3, "J.COLE"}, {1, "KINYANJUI"}, {4, "GERALD"}, {2, "JOHN"}, {5, "HASSAN"}};
 
     // Bubble sort based on the id field
     for (int i = 0; i < 5; i++) {
